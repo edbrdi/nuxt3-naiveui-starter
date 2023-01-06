@@ -1,0 +1,19 @@
+admin-already-registered:
+  en: Admin already registered
+  fr: Administrateur déjà enregistré
+
+email-already-exists:
+  en: Email already exists
+  fr: Email existe déjà
+
+unknown:
+  en: An unknown error occured
+  fr: Une erreur inconnue est survenue
+
+user-not-found:
+  en: User not found
+  fr: Utilisateur introuvable
+
+wrong-credentials:
+  en: Wrong credentials
+  fr: Identifiants incorrects

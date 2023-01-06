@@ -1,0 +1,9 @@
+@import './_colors.scss';
+
+:export {
+  // colors
+  bgLight: $bg-light;
+  bgDark: $bg-dark;
+  ctLight: $ct-light;
+  ctDark: $ct-dark;
+}

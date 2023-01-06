@@ -1,0 +1,29 @@
+# keys here are not scoped
+
+email:
+  en: Email
+  fr: Email
+
+email-invalid:
+  en: Email is invalid
+  fr: Email est invalide
+
+email-required:
+  en: Email is required
+  fr: Email est requis
+
+home:
+  en: Home
+  fr: Accueil
+
+password:
+  en: Password
+  fr: Mot de passe
+
+sign-in:
+  en: Sign in
+  fr: Se connecter
+
+sign-out:
+  en: Sign out
+  fr: Se déconnecter

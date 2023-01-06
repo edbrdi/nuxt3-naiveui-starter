@@ -1,0 +1,14 @@
+dist
+node_modules
+.output
+.nuxt
+*.log
+nuxt.d.ts
+.output
+.DS_Store
+.vscode
+.md
+package.json
+package-lock.json
+components.d.ts
+dist

@@ -1,0 +1,6 @@
+@mixin glass($color) {
+  background: rgba($color, 0.6);
+  backdrop-filter: blur(6px);
+  border-top: 1px solid rgba($color, 0.3);
+  border-bottom: 1px solid rgba($color, 0.3);
+}
